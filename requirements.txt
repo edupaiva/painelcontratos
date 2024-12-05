@@ -1,0 +1,57 @@
+async-timeout==4.0.2
+blinker==1.6.2
+cachelib==0.9.0
+certifi==2023.5.7
+charset-normalizer==3.1.0
+click==8.0.4
+
+Flask==2.0.3
+Flask-Admin==1.6.0
+Flask-AdminLTE3==1.0.9
+# Flask-Caching==2.0.2
+# Flask-DebugToolbar==0.13.1
+# Flask-Login==0.6.1
+# Flask-Script==2.0.6
+Flask-SQLAlchemy==2.4.1
+# Flask-Uploads==0.2.1
+# Flask-WTF==1.0.1
+# flask_babelex==0.9.4
+# Flask-Mail==0.9.1
+# email_validator
+Flask-migrate
+# phonenumbers
+
+# freetype-py==2.3.0
+# greenlet==2.0.2
+# gunicorn==20.1.0
+# idna==3.4
+# importlib-metadata==4.8.3
+# itsdangerous==2.0.1
+# Jinja2==3.0.3
+# MarkupSafe==2.0.1
+# minio==7.1.14
+# Pillow==9.5.0
+psycopg2-binary==2.9.3
+# pycairo==1.23.0
+# python-dotenv==0.21.1
+# pytz==2023.3
+# redis==4.5.5
+# reportlab==4.0.0
+# requests==2.31.0
+# rlPyCairo==0.2.0
+SQLAlchemy==1.4.46
+# typing_extensions==4.1.1
+# urllib3==2.0.2
+Werkzeug==2.0.3
+WTForms==3.0.0
+# zipp==3.6.0
+wtforms_sqlalchemy
+
+# mkdocs
+# markdown
+# mkdocs-material
+# mkdocs-material-extensions
+# mkdocstrings
+# mkdocstrings-python
+# pymdown-extensions
+# mkdocstrings[python]

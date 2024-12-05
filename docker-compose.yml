@@ -1,0 +1,12 @@
+
+services:
+  contrato_app:
+    build: .
+    ports:
+      - "8012:8000"
+    volumes:
+      - ./app:/app
+    env_file:
+      - ./.env
+    network_mode: host
+    command: python3 app.py
